@@ -1,7 +1,42 @@
-### Hi there 👋
+### Hey there, I'm [Moumen](https://www.github.com/moumen7)! 👋
+
+## Computer Science Student, passionate about Software development.
+
+-   Third Year Computer Science Student at Ain Shams University.
+-   Strong Knowledge of Java and C++.
+-   Problem solving skills.
+-   proficiency with algorithms and data structures.
+-   good knowledge of OOP and design patterns.
+-   Made several projects with android.
+-   Lives in Cairo, Egypt.
+
+### Languages:
+
+-   Arabic—Native.
+-   English—Fluent.
+-   Spanish—Beginner.
+
+### Connect with me:
+
+[<img align="left" alt="moumen7 | email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:moumenhamada30@gmail.com)
+[<img align="left" alt="moumen7 | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/moumen-hamada-26517b19b/)
+</br>
+
+
+
+### Projects
+
+  - Check out some of my projects: [MoviesBook](https://github.com/moumen7/moviesbook) - [Pathfinding visualizer](https://github.com/moumen7/Path-Finding-Algorithms-Visualisation) - [Comfort](https://github.com/moumen7/Comfort) - [Ecommerce App](https://github.com/moumen7/Ecommerce-Android-app) - [ChatApp](https://github.com/moumen7/chat-app) - [Instagram](https://github.com/moumen7/insta-app) .
+
+
+<br />
+
+[![Moumen's github stats](https://github-readme-stats.vercel.app/api?username=moumen7&hide=stars&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/moumen7?tab=repositories)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moumen7&layout=compact&theme=radical)](https://github.com/moumen7?tab=repositories)
 
 <!--
-**moumen7/moumen7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**moumen7/a7medayman6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
