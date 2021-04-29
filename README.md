@@ -18,7 +18,7 @@
 ### Connect with me:
 
 [<img align="left" alt="moumen7 | Linkedin" width="40px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" />](https://www.linkedin.com/in/moumen-hamada/)
-[<img align="left" alt="moumen7 | Linkedin" width="60px" src="https://icon-library.com/images/gmail-icon-png-transparent/gmail-icon-png-transparent-11.jpg" />](https://www.linkedin.com/in/moumen-hamada/)
+[<img align="left" alt="moumen7 | Linkedin" width="80px" src="https://icon-library.com/images/gmail-icon-png-transparent/gmail-icon-png-transparent-11.jpg" />](https://www.linkedin.com/in/moumen-hamada/)
 
 </br>
 
