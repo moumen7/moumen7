@@ -3,11 +3,10 @@
 ## Computer Science Student, passionate about Software development.
 
 -   Third Year Computer Science Student at Ain Shams University.
--   Strong Knowledge of Java and C++.
 -   Problem solving skills.
 -   proficiency with algorithms and data structures.
--   good knowledge of OOP and design patterns.
--   Made several projects with android.
+-   Good knowledge of OOP and design patterns.
+-   Good understaning of android framework(Kotlin and Java)
 -   Lives in Cairo, Egypt.
 
 ### Languages:
@@ -26,7 +25,7 @@
 
 ### Projects
 
-  - Check out some of my projects: [MoviesBook](https://github.com/moumen7/moviesbook) - [Pathfinding visualizer](https://github.com/moumen7/Path-Finding-Algorithms-Visualisation) - [Comfort](https://github.com/moumen7/Comfort) - [Ecommerce App](https://github.com/moumen7/Ecommerce-Android-app) - [ChatApp](https://github.com/moumen7/chat-app) - [Instagram](https://github.com/moumen7/insta-app) .
+  - Check out some of my projects: [MoviesBook](https://github.com/moumen7/moviesbook) - [Pathfinding visualizer](https://github.com/a7medayman6/Path-Finding-Algorithms-Visualisation) - [Comfort](https://github.com/moumen7/Comfort) - [Ecommerce App](https://github.com/moumen7/Ecommerce-Android-app) - [ChatApp](https://github.com/moumen7/chat-app) - [Instagram](https://github.com/moumen7/insta-app) .
 
 
 <br />
