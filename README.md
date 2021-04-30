@@ -26,7 +26,12 @@
 
 ### Projects
 
-  - Check out some of my projects: [MoviesBook](https://github.com/moumen7/moviesbook) - [Pathfinding visualizer](https://github.com/a7medayman6/Path-Finding-Algorithms-Visualisation) - [Comfort](https://github.com/moumen7/Comfort) - [Ecommerce App](https://github.com/moumen7/Ecommerce-Android-app) - [ChatApp](https://github.com/moumen7/chat-app) - [Instagram](https://github.com/moumen7/insta-app) .
+  - Check out some of my projects: [MoviesBook](https://github.com/moumen7/moviesbook) 
+  - - [Pathfinding visualizer](https://github.com/a7medayman6/Path-Finding-Algorithms-Visualisation) 
+  - - [Comfort](https://github.com/moumen7/Comfort) 
+  - - [Ecommerce App](https://github.com/moumen7/Ecommerce-Android-app) 
+  - - [ChatApp](https://github.com/moumen7/chat-app)
+  - - [Instagram](https://github.com/moumen7/insta-app) .
 
 
 <br />
