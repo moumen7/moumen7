@@ -18,7 +18,7 @@
 ### Connect with me:
 
 [<img align="left" alt="moumen7 | Linkedin" width="40px" src="https://user-images.githubusercontent.com/57041674/116733098-f4899c80-a9eb-11eb-924f-040ec1d733a7.png" />](https://www.linkedin.com/in/moumen-hamada/)
-[<img align="left" alt="moumen7 | Linkedin" width="80px" src="https://user-images.githubusercontent.com/57041674/116733105-f6536000-a9eb-11eb-96d0-bc141fce5aa2.png" />](mailto:moumenhamada30@gmail.com)
+[<img align="left" alt="moumen7 | Linkedin" width="40px" src="https://user-images.githubusercontent.com/57041674/116733105-f6536000-a9eb-11eb-96d0-bc141fce5aa2.png" />](mailto:moumenhamada30@gmail.com)
 
 </br>
 
