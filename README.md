@@ -37,7 +37,7 @@
   - - [Instagram](https://github.com/moumen7/insta-app)
   - 
   - Other projects:
-  - - [Ciphering System] (https://github.com/a7medayman6/Ciphering-System)
+  - - [Ciphering System](https://github.com/a7medayman6/Ciphering-System)
   - - [Pathfinding visualizer](https://github.com/a7medayman6/Path-Finding-Algorithms-Visualisation) 
 
 <br />
@@ -47,7 +47,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moumen7&layout=compact&theme=radical)](https://github.com/moumen7?tab=repositories)
 
 <!--
-**moumen7/a7medayman6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**moumen7/moumen7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
