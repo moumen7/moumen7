@@ -38,8 +38,9 @@
   
   
   - Other projects:
-  - - [Ciphering System](https://github.com/a7medayman6/Ciphering-System)
   - - [Pathfinding visualizer](https://github.com/a7medayman6/Path-Finding-Algorithms-Visualisation) 
+  - - [Ciphering System](https://github.com/a7medayman6/Ciphering-System)
+
 
 <br />
 
