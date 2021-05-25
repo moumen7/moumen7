@@ -28,7 +28,7 @@
 
   - Android projects: 
   - - [MoviesBook](https://github.com/moumen7/moviesbook) 
-  - - [Map Picker](https://github.com/moumen7/MapPicker)
+  - - [Map Picker](https://github.com/moumen7/Map_Picker)
   - - [Syringe](https://github.com/ahmedsamir9/Vezeeta-Clone)
   - - [Shopx](https://github.com/OmarHisham99/shopx)
   - - [Note app](https://github.com/moumen7/Comfort) 
