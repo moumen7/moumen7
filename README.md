@@ -25,7 +25,7 @@
 
 
 ## Projects
----
+
  ### Android projects:
   - [MoviesBook](https://github.com/moumen7/moviesbook) 
   - [Map Picker (Offline)](https://github.com/moumen7/Map_Picker)
