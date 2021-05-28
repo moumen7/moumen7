@@ -25,7 +25,6 @@
 
 
 ## Projects
-
 ---
  ### Android projects:
   - [MoviesBook](https://github.com/moumen7/moviesbook) 
