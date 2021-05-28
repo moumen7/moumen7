@@ -27,22 +27,22 @@
 ## Projects
 
 ---
-
  ### Android projects:
-  - - [MoviesBook](https://github.com/moumen7/moviesbook) 
-  - - [Map Picker](https://github.com/moumen7/Map_Picker)
-  - - [Syringe](https://github.com/ahmedsamir9/Vezeeta-Clone)
-  - - [Shopx](https://github.com/OmarHisham99/shopx)
-  - - [Note app](https://github.com/moumen7/Comfort) 
-  - - [Ecommerce App](https://github.com/moumen7/Ecommerce-Android-app) 
-  - - [ChatApp](https://github.com/moumen7/chat-app)
-  - - [Instagram](https://github.com/moumen7/insta-app)
+  - [MoviesBook](https://github.com/moumen7/moviesbook) 
+  - [Map Picker (Offline)](https://github.com/moumen7/Map_Picker)
+  - [Map Picker (Online)](https://github.com/moumen7/MapPicker)
+  - [Syringe](https://github.com/ahmedsamir9/Vezeeta-Clone)
+  - [Shopx](https://github.com/OmarHisham99/shopx)
+  - [Note app](https://github.com/moumen7/Comfort) 
+  - [Ecommerce App](https://github.com/moumen7/Ecommerce-Android-app) 
+  - [ChatApp](https://github.com/moumen7/chat-app)
+  - [Instagram](https://github.com/moumen7/insta-app)
   
   
  ### Other projects:
-  - - [Pathfinding visualizer for BFS and DFS](https://github.com/a7medayman6/Path-Finding-Algorithms-Visualisation) 
-  - - [Ciphering System](https://github.com/a7medayman6/Ciphering-System)
-  - 
+  - [Pathfinding visualizer for BFS and DFS](https://github.com/a7medayman6/Path-Finding-Algorithms-Visualisation) 
+  - [Ciphering System](https://github.com/a7medayman6/Ciphering-System)
+
 <br />
 
 [![Moumen's github stats](https://github-readme-stats.vercel.app/api?username=moumen7&hide=stars&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/moumen7?tab=repositories)
