@@ -24,9 +24,11 @@
 
 
 
-### Projects
+## Projects
 
-  - Android projects: 
+---
+
+ ### Android projects:
   - - [MoviesBook](https://github.com/moumen7/moviesbook) 
   - - [Map Picker](https://github.com/moumen7/Map_Picker)
   - - [Syringe](https://github.com/ahmedsamir9/Vezeeta-Clone)
@@ -37,11 +39,10 @@
   - - [Instagram](https://github.com/moumen7/insta-app)
   
   
-  - Other projects:
-  - - [Pathfinding visualizer](https://github.com/a7medayman6/Path-Finding-Algorithms-Visualisation) 
+ ### Other projects:
+  - - [Pathfinding visualizer for BFS and DFS](https://github.com/a7medayman6/Path-Finding-Algorithms-Visualisation) 
   - - [Ciphering System](https://github.com/a7medayman6/Ciphering-System)
-
-
+  - 
 <br />
 
 [![Moumen's github stats](https://github-readme-stats.vercel.app/api?username=moumen7&hide=stars&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/moumen7?tab=repositories)
