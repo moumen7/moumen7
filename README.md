@@ -35,7 +35,6 @@
   - [Note app](https://github.com/moumen7/Comfort) 
   - [Ecommerce App](https://github.com/moumen7/Ecommerce-Android-app) 
   - [ChatApp](https://github.com/moumen7/chat-app)
-  - [Instagram](https://github.com/moumen7/insta-app)
   
   
  ### Other projects:
