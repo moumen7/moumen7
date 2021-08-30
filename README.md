@@ -2,7 +2,7 @@
 
 ## Computer Science Student, passionate about Software development.
 
--   Third Year Computer Science Student at Ain Shams University.
+-   Computer Science Student at Ain Shams University.
 -   Problem solving skills.
 -   proficiency with algorithms and data structures.
 -   Good knowledge of OOP and design patterns.
