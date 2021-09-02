@@ -6,6 +6,7 @@
 -   Problem solving skills.
 -   proficiency with algorithms and data structures.
 -   Good knowledge of OOP and design patterns.
+-   Into competititve programming.
 -   Good understaning of android framework(Kotlin and Java)
 -   Lives in Cairo, Egypt.
 
@@ -26,20 +27,39 @@
 
 ## Projects
 
- ### Android projects:
+ ### Most Recent projects:
+  - [Sorting Visualizer](https://github.com/moumen7/Sorting_Visualizer)
+  - [Map Picker (Offline)](https://github.com/moumen7/Map_Picker)
+ 
+ ### Most Innovative projects:
+  - [MoviesBook](https://github.com/moumen7/moviesbook) 
+  - [Map Picker (Offline)](https://github.com/moumen7/Map_Picker)
+
+ ### Demo projects
+  - [Syringe](https://github.com/ahmedsamir9/Vezeeta-Clone)
+  - [Shopx](https://github.com/OmarHisham99/shopx)
+  
+ ### University projects
+  - [MoviesBook](https://github.com/moumen7/moviesbook) 
+  - [Ciphering System](https://github.com/a7medayman6/Ciphering-System)
+  - [Magazine MIS](https://github.com/a7medayman6/Magazine-MIS)
+
+ ### Visualization projects
+  - [Pathfinding visualizer for BFS and DFS](https://github.com/a7medayman6/Path-Finding-Algorithms-Visualisation) 
+  - [Sorting Visualizer](https://github.com/moumen7/Sorting_Visualizer)
+
+ ### Android projects
   - [MoviesBook](https://github.com/moumen7/moviesbook) 
   - [Map Picker (Offline)](https://github.com/moumen7/Map_Picker)
   - [Map Picker (Online)](https://github.com/moumen7/MapPicker)
   - [Syringe](https://github.com/ahmedsamir9/Vezeeta-Clone)
   - [Shopx](https://github.com/OmarHisham99/shopx)
-  - [Note app](https://github.com/moumen7/Comfort) 
+  - [Note app](https://github.com/moumen7/Comfort)
+
+ ### Contributions (Projects that I didn't work signficantly on but contributed to):
   - [Ecommerce App](https://github.com/moumen7/Ecommerce-Android-app) 
   - [ChatApp](https://github.com/moumen7/chat-app)
-  
-  
- ### Other projects:
   - [Pathfinding visualizer for BFS and DFS](https://github.com/a7medayman6/Path-Finding-Algorithms-Visualisation) 
-  - [Ciphering System](https://github.com/a7medayman6/Ciphering-System)
 
 <br />
 
